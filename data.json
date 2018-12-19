@@ -1,0 +1,68 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"productName": "Nike Kyrie 4 Cheap Red Black Basketball Shoes",
+			"description": "Originally debuting in the boisterous “Confetti” colorway, the next move for the sneaker is this much easier-to-wear “Obsidian” version that comes equipped with a lighter blue outsole. Irving’s signature line has always had the ability to serve a purpose as both an efficient basketball shoe as well as a stylish lifestyle shoe. This particular iteration is a perfect example of that, as it comes equipped with a premium suede upper for looks and the customary decoupled outsole that makes this creation one of the best basketball shoes on the market.",
+			"price": "7890.50",
+			"img": "/img/uV95YXF.jpeg",
+			"priceStr": "PHP 7,890.50"
+		},
+		{
+			"id": 2,
+			"productName": "MacBook Air 13 inch (A1369/A1466) Case",
+			"description": "* Apple Macbook Air Leather Sleeve Leather Case Cover - Vintage PU leather surface, soft interior lining, comfortable handing feeling, offers all round protection\r\n* Precision made from engineer-quality thermoplastic silicone, these dust set protectors are designed to be a perfect fit for standard Macbook\r\n* Apple Macbook Protect Sleeve Case Cover Bag - Exclusive stand design offers maximum comfortable viewing and typing angel\r\n* Sleeve Case Cover Bag for Apple Macbook - Unique cooling design helps prolong the MacBook\\'s life",
+			"price": "688.99",
+			"img": "/img/LFHdmz0.jpg",
+			"priceStr": "PHP 688.99"
+		},
+		{
+			"id": 3,
+			"productName": "Apple iPhone XR 64GB",
+			"description": "Liquid Retina HD display\r\n6.1-inch (diagonal) all-screen LCD Multi‑Touch display with IPStechnology\r\nRated IP67 (maximum depth of 1 meter up to 30 minutes) under IEC standard 60529\r\nMain Camera: 12MP\r\nFront Camera: 7MP\r\nBattery:Non-removable Li-Ion 2942 mAh battery\r\n",
+			"price": "50990",
+			"priceStr": "PHP 50,990.00",
+			"img": "/img/Pjg81Pt.jpg"
+		},
+		{
+			"id": 4,
+			"productName": "Samsung Galaxy J4+",
+			"description": "Premium Design\r\nBright Night Camera\r\nFace Recognition\r\nExciting Treats via Samsung Members",
+			"price": "6900.50",
+			"priceStr": "PHP 6,900.50",
+			"img": "/img/kCTLdGy.jpeg"
+		},
+		{
+			"id": 5,
+			"productName": "Ace 43\" LED TV Black LED-909",
+			"description": "The Ace 43\" LED TV Black LED-909 comes with 1920P full LED HDTV, crystal clear LED display with ultra-fast 5 ms response time that lets you watch all your favorite shows flicker free, has a brightness of 250cd/m2, 3 HDMI ports so you can plug all your high definition components all at once for a complete home entertainment experience. Plus, the innovative USB port further expands functionality, allowing you to listen to music and view digital pictures quickly and convenietly. These energy star qualifying widescreen televisions are the perfect addition to any home décor, especially in the kitchen where the ultra-slim design and eye-catching colors can complement any room in your home.",
+			"price": "10429",
+			"priceStr": "PHP 10,429.00",
+			"img": "/img/ARmggPi.jpeg"
+		},
+		{
+			"id": 6,
+			"productName": "New York Sneakers Zia Women's Rubber Shoes(GREY)",
+			"description": "Rubber Shoes\r\nStylish\r\nComfortable insole\r\nElevates simpleoutfit to street-style approved ensemble\r\nDurable rubber outsole",
+			"price": "199",
+			"priceStr": "PHP 199.00",
+			"img": "/img/h9fZgRE.jpeg"
+		},
+		{
+			"id": 7,
+			"productName": "Yeti Tumbler 30oz Stainless Steel Insulated",
+			"description": "-Ramblertumblerskeepice2xlongerthanaplastictumblersandaredesignedformaximumiceretentionandworkaswellforhotbeverages.\r\n-Kitchen:gradestainlesssteelwithdouble-wallvacuuminsulationtoprotectyourdrinkatallcosts.\r\n-RamblertumblersareBPAfree,includingthecrystalclearlid,soyoucangaugethelevelofyourfrostybeverageasitslidesdownthepipe.\r\n-Duracoatcolorsthatwontpeel,fadeorcrack\r\n-Yourmorningbrewstayshot!Sotakeyourtime",
+			"price": "275.78",
+			"priceStr": "PHP 275.78",
+			"img": "/img/rh95OHI.jpeg"
+		},
+		{
+			"id": 8,
+			"productName": "ihome 4005TX Office Chair",
+			"description": "We use 12mm plywood for a stronger seated frame  \r\n360 degrees swivel function\r\nTilting mechanism\r\nPneumatic height adjustment\r\n300mm. Nylon base with PU casters\r\n100kg. Maximum weight capacity\r\nIt is durable and comfortable\r\nFive Star Chrome Base\r\n ",
+			"price": "1459",
+			"priceStr": "PHP 1,459.00",
+			"img": "/img/uamGyCf.jpeg"
+		}
+	]
+}

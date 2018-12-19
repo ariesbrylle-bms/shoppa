@@ -1,0 +1,20 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aries Brylle Ventura",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "marko": "^4.14.7",
+    "multer": "^1.4.1",
+    "rand-token": "^0.4.0",
+    "simple-json-store": "0.0.1"
+  }
+}
